@@ -1,4 +1,5 @@
--- Data Cleaning
+-- Data Cleaning: This project highlights my expertise in data cleaning and manipulation, using SQL to transform and organize a comprehensive World Layoffs Database. 
+-- It showcases my ability to handle complex datasets, ensuring accuracy and consistency while preparing the data for meaningful analysis
 
 SELECT *
 FROM layoffs;
