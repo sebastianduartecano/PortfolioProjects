@@ -49,7 +49,7 @@ WHERE row_num > 1;
 
 -- OPTION 2
 
--- Copy the clipboard create statement 
+-- I copied the clipboard create statement 
 CREATE TABLE `layoffs_staging2` (
   `company` text,
   `location` text,
